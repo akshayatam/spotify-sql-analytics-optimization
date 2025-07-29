@@ -1,7 +1,7 @@
 # 🎧 Advanced SQL Analytics & Optimization on Spotify Streaming Dataset 
 
 <p align="center">
-  <img src="assets/spotify-bg.jpg" alt="Spotify Banner" width="50%">
+  <img src="assets/spotify-bg.jpg" alt="Spotify Banner" width="100%">
 </p>
 
 This project demonstrates the use of **Advanced SQL**, **query performance tuning**, and **EDA** techniques on a real-world Spotify streaming dataset. The goal was to analyze music track metrics and optimize SQL queries to deliver faster and more efficient insights.
